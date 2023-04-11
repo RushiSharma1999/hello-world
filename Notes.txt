@@ -2,3 +2,9 @@ IDE
 JDK
 Maven
 Git
+
+Git Commands
+
+Git init
+Git add .
+Git commit -m "message
